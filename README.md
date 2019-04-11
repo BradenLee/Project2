@@ -2,7 +2,7 @@
 
 This project is a data visualization for the HPCC servers at Texas Tech.
 
-Website Link:
+Website Link: https://bradenlee.github.io/Project2/
 
 The left portion of the webpage shows all the different racks in the server. Within each box there is a summary for each rack giving 
 the total number of hosts, the totla number of "ok" hosts, the total number of "warning" hosts, and the total number of "critical" hosts.
